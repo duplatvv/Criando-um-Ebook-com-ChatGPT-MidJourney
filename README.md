@@ -16,21 +16,12 @@ Projeto de criação de e-book utilizando ChatGPT e Midjorney para a conclusão 
 
 
 ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+                                                                                                                                                                                                                                                                       |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   Regra  | Aja como um especialista em Power Point |
 |  título  | Vou fazer um e-book sobre Lanternas Verdes, da DC Comics. Gostaria de enumerar os meus personagens favoritos da Tropa dos Lanternas Verdes. Sugira um título principal para o e-book. |
-| conteúdo | Crie um resumo e uma curiosidade sobre cada um dos lanternas verdes citados:
-
-Mogo
-Guy Gardner
-Soranik Natu
-Rot Lop Fan
-Sodam Yat
-Leezle Pn
-----------------------------------------------------
-Faça um texto introdutório sobre a Tropa dos Lanternas Verdes.
+| conteúdo | Crie um resumo e uma curiosidade sobre cada um dos lanternas verdes citados: Mogo, Guy Gardner, Soranik Natu, Rot Lop Fan, Sodam Yat, Leezle Pn.
+| conteúdo | Faça um texto introdutório sobre a Tropa dos Lanternas Verdes.
 ---------------------------------------------------- |
 
 ## ✨ Features
