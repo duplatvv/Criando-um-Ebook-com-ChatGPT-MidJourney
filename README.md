@@ -2,7 +2,7 @@
 
 Projeto de criação de e-book utilizando ChatGPT e Midjorney para a conclusão de uma das etapas do Santander Bootcamp
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/duplatvv/Criando-um-Ebook-com-ChatGPT-MidJourney/blob/main/Output/ebook%20lanterna%20verde.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
